@@ -1,1 +1,1 @@
-# Capstone
+# Ethics in Software Engineering
